@@ -1,7 +1,7 @@
 from typing import Dict, List, Optional, TypeVar
 from aiohttp import ClientSession
 from logng.shared import info, error, warn
-from .header import HEADERS, cookie_fmt
+from header import HEADERS, cookie_fmt
 from lxml.html import fromstring
 from pydantic import BaseModel
 
