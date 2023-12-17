@@ -1,6 +1,6 @@
 <div align=center>
   <img width=200 src="asset/cczusnap.png"  alt="asset/cczusnap.png"/>
-  <h1 align="center">CCZU SNAP</h1>
+  <h1 align="center">CCZU GRAP</h1>
 </div>
 
 <div align=center>
@@ -13,6 +13,7 @@
 军训抢课卡了半天，于是写了这个脚本解放双手与焦虑，这就是异步蟒蛇给我的自信 😤
 
 ## 声明 🔈
+此版本为macOS适用版本,原版本因为路径设置问题在macOS不能正常使用,本人作出些更改
 
 使用MIT开源，如使用过程中造成了损失，概不负责 😋
 
